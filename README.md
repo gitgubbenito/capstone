@@ -18,18 +18,18 @@ I want to understand if my sysmthoms are part of the VAERS reporing, I want to u
 Dataset is compose of 3 large files for each year.  Data description for each dataset file will be located at 
 https://vaers.hhs.gov/docs/VAERSDataUseGuide_en_September2021.pdf
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis - TBD
 Visualization: Histograms, scatter plots, box plots, correlation matrices
 Statistical Analysis: Descriptive statistics (mean, median, standard deviation), data distribution analysis (skewness, kurtosis)
 Data Cleaning: Handling missing values (imputation, deletion), identifying and dealing with outliers
 
-# Regression Modeling
+# Regression Modeling - TBD
 Model Selection:linear regression, decision trees, random forests
 
-# Feature Engineering
+# Feature Engineering - TBD
 
-# Model Training & Hyperparameter Tuning
+# Model Training & Hyperparameter Tuning - TBD
 
-# Conclusions
+# Conclusions - TBD
 
 
