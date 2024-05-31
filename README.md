@@ -15,8 +15,12 @@ On this project I will use  datasets provide by CDC throug VAERS web site, Datas
 I want to understand if my sysmthoms are part of the VAERS reporing, I want to uderstang any other adverse reported and and look for any corretation between systom and vaccines
 
 # Dataset
-Dataset is compose of 3 large files for each year.  Data description for each dataset file will be located at 
+Dataset is compose of 3 large files for each year.  Data description for each dataset, file will be located at 
 https://vaers.hhs.gov/docs/VAERSDataUseGuide_en_September2021.pdf
+https://vaers.hhs.gov/data/datasets.html
+
+
+**NOTE**: Datasets were to big to be uploaded to githubM, I focus 0n 2021 datasets
 
 # Exploratory Data Analysis - TBD
 Visualization: Histograms, scatter plots, box plots, correlation matrices
